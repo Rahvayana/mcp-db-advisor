@@ -85,6 +85,7 @@ Report issues or suggest features via GitHub Issues.
 Reach out if you have ideas for improvements!
 Thanks.
 ---
-
+![image](https://github.com/user-attachments/assets/4e6acf98-328f-4f6d-aefd-4d8446ec0a43)
+Check this hammer icon.
 Now you're all set to use **MCP SQL Database Advisor** with Claude Desktop! 🚀
 
