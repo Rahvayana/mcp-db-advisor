@@ -2,6 +2,9 @@
 
 A Model Context Protocol (MCP) server for Claude Desktop to manage MySQL and PostgreSQL databases.
 
+![MCP SQL Database Advisor](https://github.com/user-attachments/assets/4e6acf98-328f-4f6d-aefd-4d8446ec0a43)
+
+
 ## Features
 - Connect/disconnect to MySQL or PostgreSQL
 - Run SQL queries
@@ -85,7 +88,5 @@ Report issues or suggest features via GitHub Issues.
 Reach out if you have ideas for improvements!
 Thanks.
 ---
-![image](https://github.com/user-attachments/assets/4e6acf98-328f-4f6d-aefd-4d8446ec0a43)
-Check this hammer icon.
 Now you're all set to use **MCP SQL Database Advisor** with Claude Desktop! 🚀
 
